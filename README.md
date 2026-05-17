@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm STAR
 
-**Equipment & Control Eng. Student | Android System & Module Developer**
-> *工程师思维，在物理控制与系统底层逻辑之间游走。*
+**Process Equipment & Control Eng. Student | Android System & Module Developer**
+> *工程师思维，在物理过程控制与系统底层逻辑之间游走。*
 
 ---
 
 #### 📝 About Me | 关于我
 
-- 🎓 **Education:** Studying Equipment and Control Engineering at BUCT. 
-  *(就读于北京化工大学 工程装备与控制工程专业)*
+- 🎓 **Education:** Studying Process Equipment and Control Engineering at BUCT. 
+  *(就读于北京化工大学 过程装备与控制工程专业)*
 - 📱 **Development:** Focusing on Android System, Project Treble, and KernelSU / LSPosed Module Development. 
   *(专注 Android 底层系统、Project Treble 移植以及 KSU & LSP 模块开发)*
 - 🔧 **Operations:** Interested in Server Admin, Homelab, and Network Routing. 
