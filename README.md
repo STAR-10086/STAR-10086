@@ -38,6 +38,6 @@
 #### 📊 GitHub Stats | 开源统计
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=STAR-10086&show_icons=true&theme=default&hide_border=false" alt="STAR's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STAR-10086&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-seven-zeta-19.vercel.app/api?username=STAR-10086&show_icons=true&theme=default&hide_border=false" alt="STAR's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-seven-zeta-19.vercel.app/api/top-langs/?username=STAR-10086&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="48%" />
 </p>
